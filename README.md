@@ -1,6 +1,6 @@
 ### 👋 Hi My name is Arnulfo and i’m a computer engineer 🇲🇽
 
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRYOV.png" width="30%" align="right" alt="dacryo" title="dacryo" />
+<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRY0.png" width="30%" align="right" alt="dacryo" title="dacryo" />
 
 #### Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=flat-square "C")
