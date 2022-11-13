@@ -1,4 +1,4 @@
-### 👋 Hi My name is Arnulfo and i’m a computer engineer 🇲🇽
+### 👋 Hi, my name is Arnulfo | Computer engineer 🇲🇽
 
 <img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRY0.png" width="30%" align="right" alt="dacryo" title="dacryo" />
 
