@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @D4cry0
 
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/D%20A%20C%20R%20Y%20O.png" align="right" alt="dacryo" title="dacryo" />
-
 My name is Arnulfo and i’m a computer engineer 🇲🇽
 
 #### Languages
@@ -60,8 +58,6 @@ I consider myself a proactive, observant, responsible, analytical, strategist an
 - 2022 - Here i am, ready to finally become a Full Stack Developer y Embeded Systems Developer 🔥
 
 <hr />
-
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/giphy.gif" align="right" alt="Visual Art 3d GIF By SymmetryInChaos" title="Visual Art 3d GIF By SymmetryInChaos" />
 
 ### My Hobbies
 - Technology
