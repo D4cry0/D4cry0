@@ -43,7 +43,7 @@
 - Cybersecurity
 
 ### My value
-I consider myself a proactive, observant, responsible, analytical, strategist and empathic person. 
+Proactive, observant, responsible, analytical, strategist and empathic person. 
 
 ### Life path
 
