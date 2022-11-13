@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @D4cry0
 
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRYO.png" align="right" alt="dacryo" title="dacryo" />
+<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRYOV.png" align="right" alt="dacryo" title="dacryo" />
 
 My name is Arnulfo and i’m a computer engineer 🇲🇽
 
@@ -61,17 +61,17 @@ I consider myself a proactive, observant, responsible, analytical, strategist an
 
 <hr />
 
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/giphy.gif" align="right" alt="Visual Art 3d GIF By SymmetryInChaos" title="Visual Art 3d GIF By SymmetryInChaos" />
+<p align="center">
+<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/Friedpixels.gif" width="800px" height="60px" alt="GIF By Friedpixels" title="Friedpixels" />
+</p>
 
-### My Hobbies
-- Technology
-- Mathematics
-- Philosophy
-- Producing Music
-- Boardgames
-- Scale Model Kits
-- Cyberpunk
-- Anime
+<p align="center">
+ <b>My Hobbies</b>
+</p>
+
+<p align="center">
+Technology | Mathematics | Philosophy | Producing Music | Boardgames | Scale Model Kits | Cyberpunk
+</p>
 
 <!---
 D4cry0/D4cry0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
