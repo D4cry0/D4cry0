@@ -2,7 +2,7 @@
 
 <img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRY0.png" width="30%" align="right" alt="dacryo" title="dacryo" />
 
-#### Languages
+#### Languages / Libraries
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=flat-square "C")
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&logoWidth=30&style=flat-square "C++")
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30&style=flat-square "JavaScript")
@@ -13,6 +13,7 @@
 ![Assembler](https://img.shields.io/badge/-Assembler-CCCCCC?style=flat-square "Assembler")
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square "SQL")
 ![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-ADD8E6?logo=shopify&logoColor=black&style=flat-square "Shopify Liquid")
+![Shopify Polaris](https://img.shields.io/badge/-Shopify%20Polaris-103262?logo=shopify&logoColor=white&style=flat-square "Shopify Polaris")
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&style=flat-square "Python")
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square "Git")
@@ -26,6 +27,7 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square "Wreshark")
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=30&style=flat-square "Linux")
 ![Shopify](https://img.shields.io/badge/-Shopify%20Dev-7AB55C?logo=shopify&logoColor=black&logoWidth=30&style=flat-square "Shopify Dev")
+![Shopify CLI](https://img.shields.io/badge/-Shopify%20CLI-7AB55C?logo=shopify&logoColor=black&style=flat-square "Shopify CLI")
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 #### Learning
 ![Verilog](https://img.shields.io/badge/-Verilog-779eb2?style=flat-square "Verilog")
@@ -70,7 +72,7 @@ I consider myself a proactive, observant, responsible, analytical, strategist an
 </p>
 
 <p align="center">
-  Technology | Mathematics | Philosophy | Producing Music | Boardgames | Scale Model Kits | Cyberpunk
+  Technology | Mathematics | Philosophy | Producing Music | Cyberpunk
 </p>
 
 <!---
