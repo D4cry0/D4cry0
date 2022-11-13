@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @D4cry0
 
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/D%20A%20C%20R%20Y%20O.png" align="right" alt="dacryo" title="dacryo" />
+<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRYO.png" align="right" alt="dacryo" title="dacryo" />
 
 My name is Arnulfo and i’m a computer engineer 🇲🇽
 
