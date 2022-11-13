@@ -72,7 +72,7 @@ I consider myself a proactive, observant, responsible, analytical, strategist an
 </p>
 
 <p align="center">
-  Technology | Mathematics | Philosophy | Producing Music | Cyberpunk
+  Technology | Mathematics | Philosophy | Collaborative Working | Producing Music | Cyberpunk
 </p>
 
 <!---
