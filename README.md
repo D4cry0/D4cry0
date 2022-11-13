@@ -60,15 +60,17 @@ I consider myself a proactive, observant, responsible, analytical, strategist an
 <hr />
 
 <p align="center">
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/Friedpixels.gif" width="800px" height="60px" alt="GIF By Friedpixels" title="Friedpixels" />
+  <a href="https://giphy.com/friedpixels/" target="_blank">
+    <img src="https://vcoresystems.sfo3.digitaloceanspaces.com/Friedpixels.gif" width="800px" height="60px" alt="GIF By Friedpixels" title="Friedpixels" />
+  </a>
 </p>
 
 <p align="center">
- <b>My Hobbies</b>
+  <b>My Hobbies</b>
 </p>
 
 <p align="center">
-Technology | Mathematics | Philosophy | Producing Music | Boardgames | Scale Model Kits | Cyberpunk
+  Technology | Mathematics | Philosophy | Producing Music | Boardgames | Scale Model Kits | Cyberpunk
 </p>
 
 <!---
