@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&logoWidth=30&style=flat-square "Java")
 ![Assembler](https://img.shields.io/badge/-Assembler-CCCCCC?style=flat-square "Assembler")
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square "SQL")
-![Liquid](https://img.shields.io/badge/-Liquid-ADD8E6?style=flat-square "Liquid")
+![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-ADD8E6?logo=shopify&logoColor=black&style=flat-square "Shopify Liquid")
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&style=flat-square "Python")
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square "Git")
