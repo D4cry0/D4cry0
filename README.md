@@ -55,7 +55,7 @@ I consider myself a proactive, observant, responsible, analytical, strategist an
 
 - 2013 - Computer engineering ( concluded in 2016 )
 
-- 2014 - Because of emotional and familiar problems i was unable to perform my profession and to attend all my troubles i had the only choice to start an e-commerce business  ( [www.elreino.mx](http://www.elreino.mx) ) there i work as system developer and administrator
+- 2014 - Because of emotional and familiar problems i was unable to perform my profession and to attend all my troubles i had the only choice to start an ecommerce business  ( [www.elreino.mx](http://www.elreino.mx) ) there i work as system developer and administrator
 
 - 2022 - Here i am, ready to finally become a Full Stack Developer y Embeded Systems Developer 🔥
 
