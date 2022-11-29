@@ -57,7 +57,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2014 - Because of emotional and familiar problems i was unable to perform my profession and to attend all my troubles i had the only choice to start an ecommerce business  ( [www.elreino.mx](http://www.elreino.mx) ) there i work as system developer and administrator
 
-- 2022 - Here i am, ready to finally take the path to Cybersecurity or DevOps Engineer 🔥
+- 2022 - Here i am, ready to finally take the path to Cybersecurity or DevOps Engineer and Embedded Sys dev 🔥
 
 <hr />
 
