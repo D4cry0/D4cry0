@@ -40,6 +40,7 @@
 - Linux servers and networks administrator
 - Embedded systems ( hardware ): more specific in devices that can be connected to a network
 - Code compilers
+- Low level programing
 - Cybersecurity
 
 ### My value
@@ -47,15 +48,15 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 ### Life path
 
-- 2009 - Electronic engineering ( until 6th semester in 2012 )
+- 2009 - Electronic engineer  ( until 6th semester in 2012 )
    - Analogue Electronics
    - Digital Electronics
    - Power Electronics
-   - Microprocessors
+   - Microprocessor Architecture
 
-- 2013 - Computer engineering ( concluded in 2016 )
+- 2013 - Computer engineer  ( concluded in 2016 )
 
-- 2014 - Because of emotional and familiar problems i was unable to perform my profession and to attend all my troubles i had the only choice to start an ecommerce business  ( [www.elreino.mx](http://www.elreino.mx) ) there i work as system developer and administrator
+- 2014 - Because of emotional and familiar problems i was unable to perform my profession and to attend all my troubles and had the only choice to start an e-commerce business  ( [www.elreino.mx](http://www.elreino.mx) ), there i worked as system developer and administrator. Currently i'm the majority shareholder and hadn't job position in the company.
 
 - 2022 - Here i am, ready to finally take the path to Cybersecurity or DevOps Engineer and Embedded Sys dev 🔥
 
