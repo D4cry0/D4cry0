@@ -56,7 +56,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2013 - Computer engineer  ( concluded in 2016 )
 
-- 2014 - I was unable to perform my profession at 100% the only choice i had was to start an e-commerce business  ( [www.elreino.mx](http://www.elreino.mx) ), there i worked as system developer and administrator. Currently (2022) i'm the majority shareholder and hadn't job position in the company.
+- 2014 / 2022 - I was unable to perform my profession at 100% the only choice i had was to start an e-commerce business.
 
 - 2022 - Here i am, ready to finally take the path to Cybersecurity or DevOps Engineer and Embedded Sys dev 🔥
 
