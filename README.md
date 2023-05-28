@@ -77,7 +77,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2023 (Current) - Against Fomo (Personal project (team of 3 people) for: animation, digital illustration, music and sound production and game development).
 
-- 2023 - Seeking for partial jobs email me.
+- 2023 - Seeking for partial jobs email me (arnucorba@gmail.com)
 
 <hr />
 
