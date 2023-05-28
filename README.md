@@ -63,7 +63,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 <hr />
 
 <p align="center">
-  <a href="https://giphy.com/friedpixels" target="_blank"><img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.png" width="30%" align="right" alt="BY friedpixels" title="friedpixels" /></a>
+  <a href="https://giphy.com/friedpixels" target="_blank"><img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/FriedPixels.gif" width="30%" align="right" alt="BY friedpixels" title="friedpixels" /></a>
 </p>
 
 <p align="center">
