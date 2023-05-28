@@ -42,6 +42,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=black&logoWidth=30&style=flat-square "Apache")
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=black&logoWidth=30&style=flat-square "Docker")
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=black&logoWidth=30&style=flat-square "Proxmox")
+![Wireguard](https://img.shields.io/badge/-Wireguard-88171A?logo=wireguard&logoColor=black&logoWidth=30&style=flat-square "Wireguard")
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 #### Learning
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=flat-square "Adobe Photoshop")
@@ -53,7 +54,7 @@
   
 ### Interested in
 - Web development ( back end )
-- Linux servers and networks administrator (Clusters, VMs, etc)
+- Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently making a cluster network with home and cloud servers.
 - Music Production
 - Game development
 - Low level programing
@@ -71,7 +72,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2013 - Computer engineer  ( concluded in 2016 )
 
-- 2014 / 2022 - I was unable to perform my profession at 100% the only choice i had was to start an e-commerce business. There i coordinate a team of 10 people in all kind of jobs like: logistics, resource manager, international purchasing, web design, marketing, social media, customer support and planning showroom events.
+- 2014 / 2022 - I was unable to perform my profession at 100% the only choice i had was to start an e-commerce business. There i coordinated a team of 10 people in all kind of jobs like: logistics, resource manager, international purchasing, web design, marketing, social media, customer support and planning showroom events.
 
 - 2023 (Current) - Full Stack Engineer at Martisan SA. de CV. and Software Assistant
 
