@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Arnulfo | Computer engineer 🇲🇽
 
-<img src="https://vcoresystems.sfo3.digitaloceanspaces.com/DACRY0.png" width="30%" align="right" alt="dacryo" title="dacryo" />
+<img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.png" width="30%" align="right" alt="dacryo" title="dacryo" />
 
 #### Languages / Libraries
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=flat-square "C")
@@ -63,7 +63,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 <hr />
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/cvmCbRnbBSh56" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-motion-graphics-after-effects-cvmCbRnbBSh56">via GIPHY</a></p>
+  <a href="https://giphy.com/friedpixels" target="_blank"><img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.png" width="30%" align="right" alt="BY friedpixels" title="friedpixels" /></a>
 </p>
 
 <p align="center">
