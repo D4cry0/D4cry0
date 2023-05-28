@@ -63,9 +63,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 <hr />
 
 <p align="center">
-  <a href="https://giphy.com/friedpixels/" target="_blank">
-    <img src="https://vcoresystems.sfo3.digitaloceanspaces.com/Friedpixels.gif" width="800px" height="60px" alt="GIF By Friedpixels" title="Friedpixels" />
-  </a>
+  <iframe src="https://giphy.com/embed/cvmCbRnbBSh56" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-motion-graphics-after-effects-cvmCbRnbBSh56">via GIPHY</a></p>
 </p>
 
 <p align="center">
