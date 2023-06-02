@@ -75,7 +75,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2014 / 2022 - I was unable to perform my profession at 100%, so i was forced to start an e-commerce business. There i coordinated a team of 10 people in all kind of jobs like: logistics, resource manager, workflow management, international purchasing, web development with Shopify, marketing, social media, customer support and planning showroom events.
 
-- 2023 (Current) - Full Stack and DevOPs Engineer at Martisan SA. de CV. and Software Assistant
+- 2023 (Current) - Full Stack and DevOps Engineer at Martisan SA. de CV. and Software Assistant
 
 - 2023 (Current) - Against Fomo (Personal project (team of 3 people) for: animation, digital illustration, music and sound production and game development).
 
