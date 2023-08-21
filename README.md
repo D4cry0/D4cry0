@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=30&style=flat-square "Linux")
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&logoWidth=30&style=flat-square "Ubuntu")
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&logoWidth=30&style=flat-square "Arch Linux")
-![Centos](https://img.shields.io/badge/-centos-262577?logo=centos&logoColor=white&logoWidth=30&style=flat-square "Centos")
+![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white&logoWidth=30&style=flat-square "CentOS")
 ![Alpine Linux](https://img.shields.io/badge/-Alpine_Linux-0D597F?logo=alpinelinux&logoColor=white&logoWidth=30&style=flat-square "Alpine Linux")
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=gnubash&logoColor=black&logoWidth=30&style=flat-square "GNU Bash")
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square "Git")
