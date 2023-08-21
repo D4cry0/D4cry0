@@ -48,6 +48,7 @@
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square "Remix")
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
+![MedusaJs](https://img.shields.io/badge/-MedusaJs-00000?style=flat-square "MedusaJs")
 ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?logo=abletonlive&logoColor=white&style=flat-square "Ableton Live")
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
@@ -77,7 +78,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2023 (Current) - Full Stack and DevOps Engineer at Martisan SA. de CV. and Software Assistant
 
-- 2023 (Current) - Against Fomo (Personal project (team of 3 people) for: animation, digital illustration, music and sound production and game development).
+- 2023 (Current) - Against Fomo (Personal project for Ecommerce and Shopify Apps).
 
 - 2023 - Seeking for partial jobs email me (arnucorba@gmail.com)
 
