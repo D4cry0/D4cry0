@@ -32,6 +32,7 @@
 ![Alpine Linux](https://img.shields.io/badge/-Alpine_Linux-0D597F?logo=alpinelinux&logoColor=white&logoWidth=30&style=flat-square "Alpine Linux")
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=gnubash&logoColor=black&logoWidth=30&style=flat-square "GNU Bash")
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square "Git")
+![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&logoColor=black&style=flat-square "Subversion")
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=black&style=flat-square "VS Code")
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=black&style=flat-square "Visual Studio")
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white&style=flat-square "NetBeans")
