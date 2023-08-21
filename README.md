@@ -45,10 +45,10 @@
 ![Wireguard](https://img.shields.io/badge/-Wireguard-88171A?logo=wireguard&logoColor=black&logoWidth=30&style=flat-square "Wireguard")
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 #### Learning
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=flat-square "Adobe Photoshop")
-![Adobe Illustrato](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=flat-square "Adobe Illustrator")
+![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square "Remix")
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
 ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?logo=abletonlive&logoColor=white&style=flat-square "Ableton Live")
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square "Blender")
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
   
