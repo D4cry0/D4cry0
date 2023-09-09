@@ -62,7 +62,6 @@
 - Web development ( back end )
 - Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
 - Music Production
-- Game development
 - Low level programing
 - Cybersecurity
 
