@@ -48,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=black&logoWidth=30&style=flat-square "Docker")
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=black&logoWidth=30&style=flat-square "Proxmox")
 ![Wireguard](https://img.shields.io/badge/-Wireguard-88171A?logo=wireguard&logoColor=black&logoWidth=30&style=flat-square "Wireguard")
+![ownCloud](https://img.shields.io/badge/-ownCloud-041E42?logo=owncloud&logoColor=white&logoWidth=30&style=flat-square "ownCloud")
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 #### Learning
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square "Remix")
