@@ -81,13 +81,13 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 ### Life path
 
-- 2009 - Electronic engineer  ( until 6th semester in 2012 )
+- 2009 - Electronic engineer ( until 6th semester in 2012 ) at "Centro de Enseñanza Tecnica Industrial (CETI Colomos)"
    - Analogue Electronics
    - Digital Electronics
    - Power Electronics
    - Microprocessor Architecture
 
-- 2013 - Computer engineer  ( concluded in 2016 )
+- 2013 - Computer engineer  ( concluded in 2016 ) at "Universidad de Guadalajara (UDG CUCEI)"
 
 - 2014 / 2022 - I was unable to perform my profession at 100%, so i was forced to start an e-commerce business. There i coordinated a team of 10 people in all kind of jobs like: logistics, resource manager, workflow management, international purchasing, web development with Shopify, marketing, social media, customer support and planning showroom events.
 
