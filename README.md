@@ -74,6 +74,7 @@
 - Music Production
 - Low level programing
 - Cybersecurity
+- Shopify and MedusaJs development
 
 ### My value
 Proactive, observant, responsible, analytical, strategist and empathic person. 
