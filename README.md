@@ -2,7 +2,7 @@
 
 <img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.png" width="30%" align="right" alt="dacryo" title="dacryo" />
 
-#### Languages / Libraries
+#### STACK
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=flat-square "C")
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&logoWidth=30&style=flat-square "C++")
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=30&style=flat-square "JavaScript")
@@ -29,7 +29,6 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=black&logoWidth=30&style=flat-square "Strapi")
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=black&logoWidth=30&style=flat-square "Prisma")
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&logoWidth=30&style=flat-square "React Hook Form")
-#### Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=30&style=flat-square "Linux")
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&logoWidth=30&style=flat-square "Ubuntu")
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&logoWidth=30&style=flat-square "Arch Linux")
