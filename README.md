@@ -54,7 +54,6 @@
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=black&logoWidth=30&style=flat-square "Proxmox")
 ![Wireguard](https://img.shields.io/badge/-Wireguard-88171A?logo=wireguard&logoColor=black&logoWidth=30&style=flat-square "Wireguard")
 ![ownCloud](https://img.shields.io/badge/-ownCloud-041E42?logo=owncloud&logoColor=white&logoWidth=30&style=flat-square "ownCloud")
-![Mattermost](https://img.shields.io/badge/-Mattermost-0058CC?logo=mattermost&logoColor=white&logoWidth=30&style=flat-square "Mattermost")
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&logoWidth=30&style=flat-square "Discord")
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&logoWidth=30&style=flat-square "Slack")
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
