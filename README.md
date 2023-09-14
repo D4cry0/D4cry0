@@ -108,6 +108,8 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
   Technology | Mathematics | Philosophy | Animation | Music Production | Cyberpunk
 </p>
 
+<hr />
+
 <p align="center">
   Seeking to collab in a open source project or a partial job, email me arnucorba@gmail.com
 </p>
