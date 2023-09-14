@@ -93,7 +93,7 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2023 (Current) - Against Fomo (Personal project for Ecommerce and Shopify Apps).
 
-- 2023 - Seeking for partial jobs email me (arnucorba@gmail.com)
+- 2023 - Seeking to collab in a open source project or a partial job, email me arnucorba@gmail.com
 
 <hr />
 
