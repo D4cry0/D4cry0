@@ -91,9 +91,9 @@
 
 - 2014 / 2022 - I was unable to perform my profession at 100%, so i was forced to start an e-commerce business. There i coordinated a team of 10 people in all kind of jobs like: logistics, resource manager, workflow management, international purchasing, web development with Shopify, marketing, social media, customer support and planning showroom events.
 
-- 2023 (Current) - Full Stack and DevOps Engineer at Martisan SA. de CV. and Software Assistant
+- 2023 (Current) - Full Stack and SysOps Engineer at Software Assistant. Here i manage some servers, creating production and testing enviroments using Ubuntu server and i'm the lead developer for Martisan's Shopify shop, programing custom apps with: Nestjs, Nextjs, Prisma and Remix connecting them to a custom ERP programed in Java and MySQL. Martisan is the main company and owns Software Assistant.
 
-- 2023 (Current) - Against Fomo (Personal project for Ecommerce and Shopify Apps).
+- 2023 (Current) - Against Fomo and FF Hobby Store: music production and a real ecommerce store selling hobby stuff: collectibles, escale models and maybe in a future electronics or software stuff.
 
 ### My value
 Proactive, observant, responsible, analytical, strategist and empathic person. 
