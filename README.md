@@ -13,8 +13,10 @@
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&logoWidth=30&style=flat-square "Java")
 ![Assembler](https://img.shields.io/badge/-Assembler-CCCCCC?style=flat-square "Assembler")
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square "MySQL")
+![Shopify](https://img.shields.io/badge/-Shopify%20Dev-7AB55C?logo=shopify&logoColor=black&logoWidth=30&style=flat-square "Shopify Dev")
 ![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-ADD8E6?logo=shopify&logoColor=black&style=flat-square "Shopify Liquid")
 ![Shopify Polaris](https://img.shields.io/badge/-Shopify%20Polaris-103262?logo=shopify&logoColor=white&style=flat-square "Shopify Polaris")
+![Shopify CLI](https://img.shields.io/badge/-Shopify%20CLI-7AB55C?logo=shopify&logoColor=black&style=flat-square "Shopify CLI")
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&style=flat-square "Python")
 ![Express](https://img.shields.io/badge/-Express-4EAA25?logo=&logoColor=black&logoWidth=30&style=flat-square "Express")
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&logoWidth=30&style=flat-square "Socket.io")
@@ -45,8 +47,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square "Arduino")
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=black&style=flat-square "Postman")
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square "Wreshark")
-![Shopify](https://img.shields.io/badge/-Shopify%20Dev-7AB55C?logo=shopify&logoColor=black&logoWidth=30&style=flat-square "Shopify Dev")
-![Shopify CLI](https://img.shields.io/badge/-Shopify%20CLI-7AB55C?logo=shopify&logoColor=black&style=flat-square "Shopify CLI")
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=black&logoWidth=30&style=flat-square "NGINX")
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=black&logoWidth=30&style=flat-square "Apache")
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=black&logoWidth=30&style=flat-square "Docker")
@@ -67,15 +67,17 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
   
 ### Interested in
-- Web development ( back end )
+- Web development ( back end ) mostly for Shopify, MedusaJs and IOT
 - Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
 - Music Production
-- Low level programing
+- Low level programing and IOT
 - Cybersecurity
-- Shopify and MedusaJs development
 
-### My value
-Proactive, observant, responsible, analytical, strategist and empathic person. 
+<p align="center">
+  Seeking to collab in a open source project or a partial job, email me arnucorba@gmail.com
+</p>
+
+<hr />
 
 ### Life path
 
@@ -93,6 +95,8 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
 
 - 2023 (Current) - Against Fomo (Personal project for Ecommerce and Shopify Apps).
 
+### My value
+Proactive, observant, responsible, analytical, strategist and empathic person. 
 
 <hr />
 
@@ -108,11 +112,6 @@ Proactive, observant, responsible, analytical, strategist and empathic person.
   Technology | Mathematics | Philosophy | Animation | Music Production | Cyberpunk
 </p>
 
-<hr />
-
-<p align="center">
-  Seeking to collab in a open source project or a partial job, email me arnucorba@gmail.com
-</p>
 
 <!---
 D4cry0/D4cry0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
