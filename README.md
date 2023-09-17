@@ -73,7 +73,7 @@
 - Low level programing and IOT
 - Cybersecurity
 
-<p align="center">
+<p>
   Seeking to collab in a open source project or a partial job, email me arnucorba@gmail.com
 </p>
 
