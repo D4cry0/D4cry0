@@ -74,7 +74,7 @@
 - Cybersecurity
 
 <p>
-  Seeking to collab in a open source project or a partial job, email me arnucorba@gmail.com
+  Seeking to collab in an open source project or a partial job, email me arnucorba@gmail.com
 </p>
 
 <hr />
