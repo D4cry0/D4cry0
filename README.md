@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Arnulfo | Computer engineer 🇲🇽
 
-<img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.png" width="30%" align="right" alt="dacryo" title="dacryo" />
+<img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.webp" width="30%" align="right" alt="dacryo" title="dacryo" />
 
 #### STACK
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=flat-square "C")
