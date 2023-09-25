@@ -59,7 +59,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30&style=flat-square "Figma")
 #### Learning
-![Shopify Hydrogen](https://img.shields.io/badge/-Shopify%20Hydrogren-3d03fc?logo=shopify&logoColor=black&style=flat-square "Shopify Hydrogen")
+![Shopify Hydrogen](https://img.shields.io/badge/-Shopify%20Hydrogren-3d03fc?logo=shopify&logoColor=white&style=flat-square "Shopify Hydrogen")
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
 ![MedusaJs](https://img.shields.io/badge/-MedusaJs-000000?style=flat-square "MedusaJs")
