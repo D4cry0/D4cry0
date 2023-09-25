@@ -17,6 +17,7 @@
 ![Shopify Liquid](https://img.shields.io/badge/-Shopify%20Liquid-ADD8E6?logo=shopify&logoColor=black&style=flat-square "Shopify Liquid")
 ![Shopify Polaris](https://img.shields.io/badge/-Shopify%20Polaris-103262?logo=shopify&logoColor=white&style=flat-square "Shopify Polaris")
 ![Shopify CLI](https://img.shields.io/badge/-Shopify%20CLI-7AB55C?logo=shopify&logoColor=black&style=flat-square "Shopify CLI")
+![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square "Remix")
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&style=flat-square "Python")
 ![Express](https://img.shields.io/badge/-Express-4EAA25?logo=&logoColor=black&logoWidth=30&style=flat-square "Express")
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&logoWidth=30&style=flat-square "Socket.io")
@@ -58,7 +59,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30&style=flat-square "Figma")
 #### Learning
-![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square "Remix")
+![Shopify Hydrogen](https://img.shields.io/badge/-Shopify%20Hydrogren-3d03fc?logo=shopify&logoColor=black&style=flat-square "Shopify Hydrogen")
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
 ![MedusaJs](https://img.shields.io/badge/-MedusaJs-000000?style=flat-square "MedusaJs")
