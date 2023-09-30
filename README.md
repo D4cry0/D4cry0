@@ -1,6 +1,21 @@
 ### 👋 Hi, my name is Arnulfo | Computer engineer 🇲🇽
 
 <img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.webp" width="30%" align="right" alt="dacryo" title="dacryo" />
+### Current Job
+Fullstack developer and SysOps engineer
+
+<p>
+  Seeking to collab in an open source project or a partial job, email me arnucorba@gmail.com
+</p>
+
+### Interested in
+- Low level programing and IOT
+- Web development ( back end ) mostly for Shopify, MedusaJs and IOT
+- Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
+- Music Production
+- Cybersecurity
+
+<hr />
 
 #### STACK
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=flat-square "C")
@@ -67,34 +82,6 @@
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
   
-### Interested in
-- Low level programing and IOT
-- Web development ( back end ) mostly for Shopify, MedusaJs and IOT
-- Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
-- Music Production
-- Cybersecurity
-
-<p>
-  Seeking to collab in an open source project or a partial job, email me arnucorba@gmail.com
-</p>
-
-<hr />
-
-### Life path
-
-- 2009 - Electronic engineer at "Centro de Enseñanza Tecnica Industrial (CETI Colomos)"
-
-- 2013 - Computer engineer  ( concluded in 2016 ) at "Universidad de Guadalajara (UDG CUCEI)"
-
-- 2014 / 2022 - I was unable to perform my profession at 100%, so i was pushed to start an e-commerce business. There i coordinated a team of 10 people in all kind of jobs like: logistics, resource manager, workflow management, international purchasing, web development with Shopify, marketing, social media, customer support and planning showroom events.
-
-- 2023 (Current) - Full Stack and SysOps Engineer at Software Assistant. Here i manage some servers, creating production / testing enviroments using Ubuntu servers and in other hand i'm the lead developer for Martisan's Shopify shop, programing custom apps with: Nestjs, Nextjs, Prisma and Remix connecting them to a custom ERP programed in Java and MySQL. Martisan is the main company and owns Software Assistant.
-
-- 2023 (Current) - Against Fomo and FF Hobby Store: music production and ecommerce store selling hobby stuff: collectibles, escale models and maybe in a future electronics or software stuff.
-
-### My value
-Proactive, observant, responsible, analytical and strategist. 
-
 <hr />
 
 <p align="center">
