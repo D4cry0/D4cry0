@@ -11,7 +11,7 @@ Fullstack developer and SysOps engineer
 
 ### Interested in
 - Low level programing and IOT
-- Web development ( back end ) mostly for Shopify, MedusaJs and IOT
+- Web development mostly for Shopify, MedusaJs and IOT
 - Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
 - Music Production
 - Cybersecurity
