@@ -5,10 +5,6 @@
 ### Current Job
 Fullstack developer and SysOps engineer
 
-<p>
-  Seeking to collab in an open source project or a partial job, email me arnucorba@gmail.com
-</p>
-
 ### Interested in
 - Low level programing and IOT
 - Web development mostly for Shopify, MedusaJs and IOT
