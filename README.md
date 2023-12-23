@@ -6,11 +6,11 @@
 Fullstack developer and SysOps engineer
 
 ### Interested in
-- Low level programing and IOT
-- Web development mostly for Shopify, MedusaJs and IOT
-- Linux servers and networks administrator (Clusters, VMs, Kubernetes, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
+- Low level programing
+- Web development mostly for Shopify and MedusaJs
+- Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
 - Music Production
-- Cybersecurity
+- Audio developer (VSTI, Synths, Effects, and everything for DAW software)
 
 <hr />
 
@@ -37,12 +37,13 @@ Fullstack developer and SysOps engineer
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=black&logoWidth=30&style=flat-square "NestJS")
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&logoWidth=30&style=flat-square "Next.js")
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square "Remix")
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square "Dart")
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square "Flutter")
 ![Handlebars.js](https://img.shields.io/badge/-Handlebars.js-000000?logo=handlebarsdotjs&logoColor=white&logoWidth=30&style=flat-square "Handlebars.js")
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=black&logoWidth=30&style=flat-square "Bootstrap")
 ![Material Design](https://img.shields.io/badge/-Material%20Design-757575?logo=reacthookform&logoColor=white&logoWidth=30&style=flat-square "Material Design")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&logoWidth=30&style=flat-square "Tailwind CSS")
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=black&logoWidth=30&style=flat-square "Material UI")
-![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=black&logoWidth=30&style=flat-square "Strapi")
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=black&logoWidth=30&style=flat-square "Prisma")
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&logoWidth=30&style=flat-square "React Hook Form")
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=30&style=flat-square "Linux")
@@ -72,11 +73,11 @@ Fullstack developer and SysOps engineer
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=black&logoWidth=30&style=flat-square "Canva")
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30&style=flat-square "Figma")
 #### Learning
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square "Dart")
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square "Flutter")
+![Juce](https://img.shields.io/badge/-Juce-8DC63F?logo=juce&logoColor=white&style=flat-square "Juce")
+![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=black&logoWidth=30&style=flat-square "Strapi")
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
-![MedusaJs](https://img.shields.io/badge/-MedusaJs-000000?style=flat-square "MedusaJs")
+![MedusaJs](https://img.shields.io/badge/-MedusaJs-000000?logo=medusa&logoColor=white&style=flat-square "MedusaJs")
 ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?logo=abletonlive&logoColor=white&style=flat-square "Ableton Live")
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
