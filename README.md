@@ -7,10 +7,9 @@ Fullstack developer and SysOps engineer
 
 ### Interested in
 - Low level programing
-- Web development mostly for Shopify and MedusaJs
+- Web development mostly for Ecommerce (Shopify, Medusa and Vendure)
 - Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
-- Music Production
-- Audio developer (VSTI, Synths, Effects, and everything for DAW software)
+- Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software)
 
 <hr />
 
