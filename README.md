@@ -80,6 +80,7 @@ Fullstack developer and SysOps engineer
 ![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?logo=abletonlive&logoColor=white&style=flat-square "Ableton Live")
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
+![Vendure](https://img.shields.io/badge/-Vendure-FFFFFF?logoColor=white&style=flat-square "Vendure")
   
 <hr />
 
