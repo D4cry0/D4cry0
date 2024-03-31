@@ -90,7 +90,7 @@ Fullstack developer and SysOps engineer
 </p>
 
 <p align="center">
-  Technology | Mathematics | Philosophy | Animation | Music Production | Cyberpunk
+  Technology | Mathematics | Philosophy | Hobby Model Kits | Animation | Music Production | Cyberpunk
 </p>
 
 
