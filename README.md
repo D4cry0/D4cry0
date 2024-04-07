@@ -7,7 +7,7 @@ Fullstack developer and SysOps engineer
 
 ### Interested in
 - Low level programing
-- Web development mostly for Ecommerce (Shopify development, learning Medusa and Vendure)
+- Web development mostly for Ecommerce (Shopify development)
 - Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
 - Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software).
 - I have a hobby store with multistore front.
@@ -74,11 +74,9 @@ Fullstack developer and SysOps engineer
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&logoWidth=30&style=flat-square "Figma")
 #### Learning
 ![Juce](https://img.shields.io/badge/-Juce-8DC63F?logo=juce&logoColor=white&style=flat-square "Juce")
-![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=black&logoWidth=30&style=flat-square "Strapi")
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
 ![MedusaJs](https://img.shields.io/badge/-MedusaJs-000000?logo=medusa&logoColor=white&style=flat-square "MedusaJs")
-![Ableton Live](https://img.shields.io/badge/-Ableton%20Live-000000?logo=abletonlive&logoColor=white&style=flat-square "Ableton Live")
 ![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
 ![Vendure](https://img.shields.io/badge/-Vendure-FFFFFF?logoColor=white&style=flat-square "Vendure")
