@@ -6,11 +6,10 @@
 Fullstack developer and SysOps engineer
 
 ### Interested in
-- Low level programing
-- Web development mostly for Ecommerce (Shopify development)
-- Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc). Currently i'm designing a cluster network with home and cloud servers.
-- Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software).
-- I have a hobby store with multistore front.
+- Low level programing (OS, IOT and Protocols)
+- Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc). Currently i'm designing a cluster network with home and cloud servers
+- Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software)
+- Web development mostly for my small ecommerce (Shopify development with multistorefront)
 
 <hr />
 
@@ -47,6 +46,7 @@ Fullstack developer and SysOps engineer
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=black&logoWidth=30&style=flat-square "Prisma")
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&logoWidth=30&style=flat-square "React Hook Form")
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=30&style=flat-square "Linux")
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&logoWidth=30&style=flat-square "Debian")
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&logoWidth=30&style=flat-square "Ubuntu")
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&logoWidth=30&style=flat-square "Arch Linux")
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white&logoWidth=30&style=flat-square "CentOS")
@@ -77,9 +77,7 @@ Fullstack developer and SysOps engineer
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square "Redis")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=black&style=flat-square "PostgreSQL")
 ![MedusaJs](https://img.shields.io/badge/-MedusaJs-000000?logo=medusa&logoColor=white&style=flat-square "MedusaJs")
-![Mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=black&style=flat-square "Mongodb")
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square "GraphQL")
-![Vendure](https://img.shields.io/badge/-Vendure-FFFFFF?logoColor=white&style=flat-square "Vendure")
   
 <hr />
 
