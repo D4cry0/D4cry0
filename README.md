@@ -31,7 +31,7 @@ Fullstack developer and SysOps engineer
 ![Shopify Hydrogen](https://img.shields.io/badge/-Shopify%20Hydrogren-3d03fc?logo=shopify&logoColor=white&style=flat-square "Shopify Hydrogen")
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&style=flat-square "Python")
 ![Express](https://img.shields.io/badge/-Express-4EAA25?logo=&logoColor=black&logoWidth=30&style=flat-square "Express")
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&logoWidth=30&style=flat-square "Socket.io")
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColoinux servers and networks adminisr=white&logoWidth=30&style=flat-square "Socket.io")
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&logoWidth=30&style=flat-square  "React")
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=black&logoWidth=30&style=flat-square "NestJS")
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&logoWidth=30&style=flat-square "Next.js")
@@ -86,7 +86,7 @@ Fullstack developer and SysOps engineer
 </p>
 
 <p align="center">
-  Technology | Mathematics | Philosophy | Hobby Model Kits | Animation | Music Production | Cyberpunk
+  Technology | Mathematics | Philosophy | Animation | Music Production | Cyberpunk
 </p>
 
 
