@@ -7,7 +7,7 @@ Fullstack developer and SysOps engineer
 
 ### Interested in
 - Low level programing (OS, IOT, POSIX and Protocols)
-- Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc). Currently i'm designing a cluster network with home and cloud servers
+- Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc).
 - Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software)
 - Web development mostly for my small ecommerce (Shopify development with multistorefront)
 
