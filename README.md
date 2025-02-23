@@ -3,13 +3,13 @@
 <img src="https://www.againstfomo.com/cdn/8905u34ioj5r8jr2r304/DACRYO.webp" width="30%" align="right" alt="dacryo" title="dacryo" />
 
 ### Current Job
-Fullstack developer and SysOps engineer
+Backend developer and SysOps engineer
 
 ### Interested in
-- Low level programing (OS, IOT, POSIX and Protocols)
+- Low level programing (OS, IOT, POSIX and Protocols).
 - Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc).
-- Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software)
-- Web development mostly for my small ecommerce (Shopify development with multistorefront)
+- Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software) also create Synths with hardware.
+- Web development mostly for my small ecommerce (Shopify, MedusaJs or Own development).
 
 <hr />
 
