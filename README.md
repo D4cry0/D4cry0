@@ -9,8 +9,8 @@ Backend developer and SysOps engineer
 - Low level programing (OS, Hardware, IOT, POSIX and Protocols).
 - Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc).
 - Web development mostly for my small-mid ecommerce (Shopify, MedusaJs or Own development).
-- Developing my own system architectural framework to create a real business transaction without thinking in the code limitations for being to general use.
-- Developing my own programing language to define business in high leve abstraction. This one will include the syntax, framework and a proper DB to handle the transactions.
+- Developing my own system architectural framework to create a real business transaction without thinking in the language limitations because they are to much general and you need to code even more to model the business rules.
+- Developing my own programing language to define a business in high level abstraction. This one will include: the syntax, framework and a proper DB to handle the transactions.
 - Sound sintesis using software and coding tools in C++
 
 <hr />
