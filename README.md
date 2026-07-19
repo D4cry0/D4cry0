@@ -8,8 +8,10 @@ Backend developer and SysOps engineer
 ### Interested in
 - Low level programing (OS, Hardware, IOT, POSIX and Protocols).
 - Linux servers and networks administrator (Clusters, VMs, Docker, LXC, etc).
-- Learning Sound and Synth developer (VSTI, Synths, Effects, and everything for DAW software) also create Synths with hardware.
-- Web development mostly for my small ecommerce (Shopify, MedusaJs or Own development).
+- Web development mostly for my small-mid ecommerce (Shopify, MedusaJs or Own development).
+- Developing my own system architectural framework to create a real business transaction without thinking in the code limitations for being to general use.
+- Developing my own programing language to define business in high leve abstraction. This one will include the syntax, framework and a proper DB to handle the transactions.
+- Sound sintesis using software and coding tools in C++
 
 <hr />
 
